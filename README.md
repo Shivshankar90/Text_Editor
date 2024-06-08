@@ -21,3 +21,22 @@ Impact:
 
 Successfully delivered a feature-rich text editor that enhanced user productivity and demonstrated strong programming skills.
 The application received positive feedback for its ease of use and functionality, with plans for future enhancements to further improve user experience .
+
+
+INSTALLATION INSTRUCTION:
+
+
+Installation:
+
+Prerequisites:
+
+Java Development Kit (JDK):Ensure you have Java Development Kit (JDK) version 8 or higher installed on your system. You can download it from Oracle's website or install it using a package manager like apt on Ubuntu.
+
+Running the Application:
+
+1)Compile Java Files:Open a terminal or command prompt.Navigate to the directory containing the source code files.Compile the Java files using the following command:javac Editor.java
+
+2)Run the Application:After successful compilation, run the application using the following command:java Editor
+ This will launch the text editor application, allowing you to create, edit, and save text files.
+ 
+Additional Notes : This application does not have any external dependencies and relies solely on core Java libraries.Make sure you have proper permissions to read and write files in the directory where the application is located, as it saves and loads text files from the current working directory.
